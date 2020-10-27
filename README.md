@@ -1,5 +1,21 @@
 # 01 HTML CSS Git: Code Refactor
 
+What I've amdended -
+
+*Commit main 1: Fixed 'Search Engine Optimisation' link
+*Commit main 2: Added HTML comments
+*Commit main 3: Added more HTML comments and added a main element
+*Commit main 4: Added CSS comments
+*Commit main 5: Added img alt tags
+*Commit main 6: Reorganised CSS
+*Reorganised folder structure
+*Added semantic HTML elements
+*Removed duplicate CSS
+*Refined classes
+*Fixed main
+*Added 'read me' bullets 
+
+
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
