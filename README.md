@@ -15,6 +15,8 @@ What I've amdended -
 *Fixed main
 *Added 'read me' bullets 
 
+WORK URL: https://bethanygbevis.github.io/homeworkv02/
+
 
 ## Your Task
 
